@@ -12,9 +12,12 @@
   - everybody, pets, veterans, events, mentors, jobs, 2024a, yoga
 - What is a thread in Slack and when would you use one?
   - replies to a message that don't create a new post, organizes conversations
-    What is the terminal command to move one level closer to the root directory?
-    How many people are in the LEARN everybody channel?
-    What items are currently pinned in your cohort Slack channel?
+- What is the terminal command to move one level closer to the root directory?
+  - cd ..
+- How many people are in the LEARN everybody channel?
+  - 920
+- What items are currently pinned in your cohort Slack channel?
+  - Daily schedule and vet tec email
     What items are bookmarked in your Slack channel?
     What is your favorite Slack emoji?
     What is the fourth unit of the class?
@@ -28,3 +31,10 @@
     What is CSS?
     What is git?
     What is your personal plan if you find yourself without internet?
+
+### Git Terms and Commands
+
+- git checkout -b branch-name
+  - checkout: navigating to a different branch
+  - -b: creating a new branch
+  - name: communicates intent, usually there is a protocol around branch names
