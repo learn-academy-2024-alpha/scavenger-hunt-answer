@@ -25,6 +25,7 @@
   What is the fourth unit of the class?
   What should you do if you are going to miss class?
   What time does the classroom Zoom open every morning?
+  8:45am
   What is the tech stack at LEARN?
   What terminal command will show you all the content of your current directory?
   How do you open your text editor from the terminal?
