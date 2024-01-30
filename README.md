@@ -29,6 +29,7 @@
   What is the tech stack at LEARN?
   What terminal command will show you all the content of your current directory?
   How do you open your text editor from the terminal?
+  - code
   In HTML and CSS, what is the difference between a class and an id?
   What is an HMTL attribute?
   What is CSS?
