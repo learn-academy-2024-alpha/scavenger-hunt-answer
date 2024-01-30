@@ -18,19 +18,21 @@
   - 920
 - What items are currently pinned in your cohort Slack channel?
   - Daily schedule and vet tec email
-    What items are bookmarked in your Slack channel?
-    What is your favorite Slack emoji?
-    What is the fourth unit of the class?
-    What should you do if you are going to miss class?
-    What time does the classroom Zoom open every morning?
-    What is the tech stack at LEARN?
-    What terminal command will show you all the content of your current directory?
-    How do you open your text editor from the terminal?
-    In HTML and CSS, what is the difference between a class and an id?
-    What is an HMTL attribute?
-    What is CSS?
-    What is git?
-    What is your personal plan if you find yourself without internet?
+- What items are bookmarked in your Slack channel?
+  - google drive, daily schedule, github
+- What is your favorite Slack emoji?
+- 🫠
+  What is the fourth unit of the class?
+  What should you do if you are going to miss class?
+  What time does the classroom Zoom open every morning?
+  What is the tech stack at LEARN?
+  What terminal command will show you all the content of your current directory?
+  How do you open your text editor from the terminal?
+  In HTML and CSS, what is the difference between a class and an id?
+  What is an HMTL attribute?
+  What is CSS?
+  What is git?
+  What is your personal plan if you find yourself without internet?
 
 ### Git Terms and Commands
 
