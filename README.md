@@ -8,8 +8,10 @@
   - Alpha contract, daily schedules, lecture videos, retro docs
 - What holidays fall during your class where we don’t have class?
   - Presidents' day, 2/19/2024
-    What Slack channels are you in?
-    What is a thread in Slack and when would you use one?
+- What Slack channels are you in?
+  - everybody, pets, veterans, events, mentors, jobs, 2024a, yoga
+- What is a thread in Slack and when would you use one?
+  - replies to a message that don't create a new post, organizes conversations
     What is the terminal command to move one level closer to the root directory?
     How many people are in the LEARN everybody channel?
     What items are currently pinned in your cohort Slack channel?
