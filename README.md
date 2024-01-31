@@ -56,7 +56,7 @@
 -git branch : ensures you are on the right branch
 -code . opens vs code to start 
 
-![my image](./image/DALL·E%202024-01-31%2010.29.54%20-%20A%20humorous%20and%20surreal%20illustration%20depicting%20the%20metaphorical%20concept%20of%20a%20'coder's%20brain%20melting'.%20The%20image%20features%20a%20cartoonish%20human%20brain,%20set%20.png)
+![my image](https://img.freepik.com/premium-vector/hand-brain-rainbow-streetwear-cartoon_96628-587.jpg)
 
 -Mark added image above
 -our brains are fine though 
