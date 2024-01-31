@@ -29,13 +29,21 @@
   What time does the classroom Zoom open every morning?
   8:45am
   What is the tech stack at LEARN? Tech stack would be javascript and rail
-  What terminal command will show you all the content of your current directory?
+
+  What terminal command will show you all the content of your current directory? ls 
+
   How do you open your text editor from the terminal?
+
   In HTML and CSS, what is the difference between a class and an id?
+
   What is an HMTL attribute?
+
   What is CSS?
+
   What is git?
+
   What is your personal plan if you find yourself without internet?
+  
 
 ### Git Terms and Commands
 
