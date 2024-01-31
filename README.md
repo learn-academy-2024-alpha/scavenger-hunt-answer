@@ -32,7 +32,7 @@
 
   What terminal command will show you all the content of your current directory? ls 
 
-  How do you open your text editor from the terminal?
+  How do you open your text editor from the terminal? type in code .
 
   In HTML and CSS, what is the difference between a class and an id?
 
