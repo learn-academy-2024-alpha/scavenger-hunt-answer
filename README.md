@@ -43,3 +43,19 @@
   - checkout: navigating to a different branch
   - -b: creating a new branch
   - name: communicates intent, usually there is a protocol around branch names
+
+
+
+
+
+
+
+- Morgan and Matt's first drive test
+- lets do this!!
+- Getting the hang of it
+- lets keep going!
+- we are on a roll!
+- What got you into coding?
+  - I became interested in coding after taking a class in C++
+  - I tried learning python years ago and recently needed to find a career that offered a better level of living.
+- We are so good at coding
