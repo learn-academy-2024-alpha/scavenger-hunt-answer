@@ -22,6 +22,7 @@
   - google drive, daily schedule, github
 - What is your favorite Slack emoji?
 - 🫠
+
   What is the fourth unit of the class?
   Ruby and Ruby on rails
   What should you do if you are going to miss class?
@@ -45,9 +46,41 @@
   What is your personal plan if you find yourself without internet?
   
 
+- What is the fourth unit of the class?
+  - Ruby
+    What should you do if you are going to miss class?
+    What time does the classroom Zoom open every morning?
+    What is the tech stack at LEARN?
+    React and Rails
+    What terminal command will show you all the content of your current directory?
+    How do you open your text editor from the terminal?
+  - code
+    In HTML and CSS, what is the difference between a class and an id?
+    What is an HMTL attribute?
+    What is CSS?
+    What is git?
+    What is your personal plan if you find yourself without internet?
+
+
 ### Git Terms and Commands
 
 - git checkout -b branch-name
   - checkout: navigating to a different branch
   - -b: creating a new branch
   - name: communicates intent, usually there is a protocol around branch names
+
+
+
+
+
+
+
+- Morgan and Matt's first drive test
+- lets do this!!
+- Getting the hang of it
+- lets keep going!
+- we are on a roll!
+- What got you into coding?
+  - I became interested in coding after taking a class in C++
+  - I tried learning python years ago and recently needed to find a career that offered a better level of living.
+- We are so good at coding
