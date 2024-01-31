@@ -24,17 +24,18 @@
 - 🫠
 - What is the fourth unit of the class?
   - Ruby
-  What should you do if you are going to miss class?
-  What time does the classroom Zoom open every morning?
-  What is the tech stack at LEARN?
-  What terminal command will show you all the content of your current directory?
-  How do you open your text editor from the terminal?
+    What should you do if you are going to miss class?
+    What time does the classroom Zoom open every morning?
+    What is the tech stack at LEARN?
+    React and Rails
+    What terminal command will show you all the content of your current directory?
+    How do you open your text editor from the terminal?
   - code
-  In HTML and CSS, what is the difference between a class and an id?
-  What is an HMTL attribute?
-  What is CSS?
-  What is git?
-  What is your personal plan if you find yourself without internet?
+    In HTML and CSS, what is the difference between a class and an id?
+    What is an HMTL attribute?
+    What is CSS?
+    What is git?
+    What is your personal plan if you find yourself without internet?
 
 ### Git Terms and Commands
 
