@@ -33,10 +33,13 @@
   - code
     In HTML and CSS, what is the difference between a class and an id?
     In HTML and CSS, a class is a way to apply a style or functionality to multiple elements on a page. An ID, on the other hand, should be unique on a single HTML page. 
-    What is an HMTL attribute? 18. An HTML attribute is a property or characteristic of an HTML element that provides additional information about the element or modifies its behavior.
-    What is CSS?
-    What is git?
-    What is your personal plan if you find yourself without internet?
+    What is an HMTL attribute? An HTML attribute is a property or characteristic of an HTML element that provides additional information about the element or modifies its behavior.
+    What is CSS? 
+    -cascading style sheets- styles your page
+    What is git? 
+    -an open source version control system. used widely in the programming word
+    What is your personal plan if you find yourself without internet? 
+    -Notify instructors immediately. use my cellphone hotspot while trouble shoot router. if all else fails. go to my apartments office workspace. 
 
 ### Git Terms and Commands
 
@@ -44,3 +47,11 @@
   - checkout: navigating to a different branch
   - -b: creating a new branch
   - name: communicates intent, usually there is a protocol around branch names
+
+
+-Fetch process
+-git pull origin main 
+-git fetch origin <branch name>
+-git checkout branch name : takes you to the branch you want to work on
+-git branch : ensures you are on the right branch
+-code . opens vs code to start 
