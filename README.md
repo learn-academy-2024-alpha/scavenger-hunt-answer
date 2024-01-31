@@ -28,7 +28,7 @@
   let the instructors know and teammates in the event your gonna miss, and post a note on the slack. 
   What time does the classroom Zoom open every morning?
   8:45am
-  What is the tech stack at LEARN?
+  What is the tech stack at LEARN? Tech stack would be javascript and rail
   What terminal command will show you all the content of your current directory?
   How do you open your text editor from the terminal?
   In HTML and CSS, what is the difference between a class and an id?
