@@ -1,4 +1,5 @@
-# Scavenger Hunt Answers
+https://github.com/learn-academy-2024-alpha/scavenger-hunt-answer.git# 
+Scavenger Hunt Answers
 
 ### Scavenger Hunt Tasks
 
@@ -35,6 +36,8 @@
     In HTML and CSS, what is the difference between a class and an id?
     What is an HMTL attribute?
     What is CSS?
+Cascading Style Sheets
+
     What is git?
     What is your personal plan if you find yourself without internet?
 
