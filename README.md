@@ -23,6 +23,7 @@
 - What is your favorite Slack emoji?
 - 🫠
   What is the fourth unit of the class?
+  Ruby and Ruby on rails
   What should you do if you are going to miss class?
   What time does the classroom Zoom open every morning?
   8:45am
