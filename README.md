@@ -22,24 +22,29 @@ Scavenger Hunt Answers
 - What items are bookmarked in your Slack channel?
   - google drive, daily schedule, github
 - What is your favorite Slack emoji?
-- 🫠
+  - 🫠
 - What is the fourth unit of the class?
   - Ruby
 - What should you do if you are going to miss class?
   - message the teacher asap
-    What time does the classroom Zoom open every morning?
-    What is the tech stack at LEARN?
-    React and Rails
-    What terminal command will show you all the content of your current directory?
-    How do you open your text editor from the terminal?
-  - code
-    In HTML and CSS, what is the difference between a class and an id?
-    What is an HMTL attribute?
-    What is CSS?
-Cascading Style Sheets
-
-    What is git?
-    What is your personal plan if you find yourself without internet?
+- What time does the classroom Zoom open every morning?
+  - 8:45
+- What is the tech stack at LEARN?
+  - React and Rails
+- What terminal command will show you all the content of your current    directory?
+  - ls
+- How do you open your text editor from the terminal?
+  - code .
+- In HTML and CSS, what is the difference between a class and an id?
+  - id = # class = .
+- What is an HMTL attribute?
+  -  adjusts the behavior or display of an HTML element
+- What is CSS?
+  - Cascading Style Sheets
+- What is git?
+  - source managing code
+- What is your personal plan if you find yourself without internet?
+  - message on slack
 
 ### Git Terms and Commands
 
