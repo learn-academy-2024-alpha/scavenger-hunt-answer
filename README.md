@@ -40,12 +40,23 @@
 ### Git Terms and Commands
 
 - git checkout -b branch-name
+
   - checkout: navigating to a different branch
   - -b: creating a new branch
   - name: communicates intent, usually there is a protocol around branch names
   - git status: checks to see if the file is ready to be added
-  - git add <file name>: starts tracking file 
+  - git add <file name>: starts tracking file
   - git status: to check to see if the file is being tracked (green)
   - git commit -m"meaningful message"
-   -git push origin (branch name)
-   
+    -git push origin (branch name)
+
+- ADD Code
+
+- Fetch:
+- git pull origin main
+- git fetch origin <branch-name>
+- git checkout branch-name
+- git branch -- information command that shows all branches and denotes which one your currently on with and \*
+
+NOTE: Once you have fetched the branch, you no longer need to fetch INSTEAD ---> git pull origin branch-name
+Code!
