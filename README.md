@@ -57,3 +57,5 @@
 - we are on a roll!
 - What got you into coding?
   - I became interested in coding after taking a class in C++
+  - I tried learning python years ago and recently needed to find a career that offered a better level of living.
+  
