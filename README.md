@@ -22,6 +22,30 @@
   - google drive, daily schedule, github
 - What is your favorite Slack emoji?
 - 🫠
+
+  What is the fourth unit of the class?
+  Ruby and Ruby on rails
+  What should you do if you are going to miss class?
+  let the instructors know and teammates in the event your gonna miss, and post a note on the slack. 
+  What time does the classroom Zoom open every morning?
+  8:45am
+  What is the tech stack at LEARN? Tech stack would be javascript and rail
+
+  What terminal command will show you all the content of your current directory? ls 
+
+  How do you open your text editor from the terminal? type in code .
+
+  In HTML and CSS, what is the difference between a class and an id?
+
+  What is an HMTL attribute?
+
+  What is CSS?
+
+  What is git?
+
+  What is your personal plan if you find yourself without internet?
+  
+
 - What is the fourth unit of the class?
   - Ruby
     What should you do if you are going to miss class?
@@ -36,6 +60,7 @@
     What is CSS?
     What is git?
     What is your personal plan if you find yourself without internet?
+
 
 ### Git Terms and Commands
 
