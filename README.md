@@ -43,3 +43,9 @@
   - checkout: navigating to a different branch
   - -b: creating a new branch
   - name: communicates intent, usually there is a protocol around branch names
+  - git status: checks to see if the file is ready to be added
+  - git add <file name>: starts tracking file 
+  - git status: to check to see if the file is being tracked (green)
+  - git commit -m"meaningful message"
+   -git push origin (branch name)
+   
