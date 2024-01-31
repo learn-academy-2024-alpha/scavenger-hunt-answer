@@ -24,7 +24,8 @@
 - 🫠
 - What is the fourth unit of the class?
   - Ruby
-    What should you do if you are going to miss class?
+- What should you do if you are going to miss class?
+  - message the teacher asap
     What time does the classroom Zoom open every morning?
     What is the tech stack at LEARN?
     React and Rails
