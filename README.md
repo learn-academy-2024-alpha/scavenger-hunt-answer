@@ -53,6 +53,8 @@ Scavenger Hunt Answers
 
 - What is the fourth unit of the class?
   - Ruby
+
+
 - What should you do if you are going to miss class?
   - message the teacher asap
 - What time does the classroom Zoom open every morning?
@@ -75,6 +77,7 @@ Scavenger Hunt Answers
   - message on slack
 
 
+
 ### Git Terms and Commands
 
 - git checkout -b branch-name
@@ -83,19 +86,19 @@ Scavenger Hunt Answers
   - -b: creating a new branch
   - name: communicates intent, usually there is a protocol around branch names
 
-  - git status: checks to see if the file is ready to be added
-  - git add <file name>: starts tracking file
-  - git status: to check to see if the file is being tracked (green)
-  - git commit -m"meaningful message"
-    -git push origin (branch name)
 
-- ADD Code
 
-- Fetch:
-- git pull origin main
-- git fetch origin <branch-name>
-- git checkout branch-name
-- git branch -- information command that shows all branches and denotes which one your currently on with and \*
+-Fetch process
+-git pull origin main 
+-git fetch origin <branch name>
+-git checkout branch name : takes you to the branch you want to work on
+-git branch : ensures you are on the right branch
+-code . opens vs code to start 
+
+![my image](https://img.freepik.com/premium-vector/hand-brain-rainbow-streetwear-cartoon_96628-587.jpg)
+
+-Mark added image above
+-our brains are fine though 
 
 NOTE: Once you have fetched the branch, you no longer need to fetch INSTEAD ---> git pull origin branch-name
 Code!
@@ -115,4 +118,5 @@ Code!
   - I became interested in coding after taking a class in C++
   - I tried learning python years ago and recently needed to find a career that offered a better level of living.
 - We are so good at coding
+
 
