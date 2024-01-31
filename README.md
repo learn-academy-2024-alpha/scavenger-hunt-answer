@@ -26,6 +26,31 @@ Scavenger Hunt Answers
   - google drive, daily schedule, github
 - What is your favorite Slack emoji?
   - 🫠
+
+
+  What is the fourth unit of the class?
+  Ruby and Ruby on rails
+  What should you do if you are going to miss class?
+  let the instructors know and teammates in the event your gonna miss, and post a note on the slack. 
+  What time does the classroom Zoom open every morning?
+  8:45am
+  What is the tech stack at LEARN? Tech stack would be javascript and rail
+
+  What terminal command will show you all the content of your current directory? ls 
+
+  How do you open your text editor from the terminal? type in code .
+
+  In HTML and CSS, what is the difference between a class and an id?
+
+  What is an HMTL attribute?
+
+  What is CSS?
+
+  What is git?
+
+  What is your personal plan if you find yourself without internet?
+  
+
 - What is the fourth unit of the class?
   - Ruby
 - What should you do if you are going to miss class?
@@ -49,9 +74,45 @@ Scavenger Hunt Answers
 - What is your personal plan if you find yourself without internet?
   - message on slack
 
+
 ### Git Terms and Commands
 
 - git checkout -b branch-name
+
   - checkout: navigating to a different branch
   - -b: creating a new branch
   - name: communicates intent, usually there is a protocol around branch names
+
+  - git status: checks to see if the file is ready to be added
+  - git add <file name>: starts tracking file
+  - git status: to check to see if the file is being tracked (green)
+  - git commit -m"meaningful message"
+    -git push origin (branch name)
+
+- ADD Code
+
+- Fetch:
+- git pull origin main
+- git fetch origin <branch-name>
+- git checkout branch-name
+- git branch -- information command that shows all branches and denotes which one your currently on with and \*
+
+NOTE: Once you have fetched the branch, you no longer need to fetch INSTEAD ---> git pull origin branch-name
+Code!
+
+
+
+
+
+
+
+- Morgan and Matt's first drive test
+- lets do this!!
+- Getting the hang of it
+- lets keep going!
+- we are on a roll!
+- What got you into coding?
+  - I became interested in coding after taking a class in C++
+  - I tried learning python years ago and recently needed to find a career that offered a better level of living.
+- We are so good at coding
+
